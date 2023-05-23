@@ -1,0 +1,39 @@
+.test{
+    background-color: red;
+    width: 50%;
+    margin: auto;
+}
+.fa-kiwi-bird {
+    font-size: 500px;
+    
+ 
+
+  }
+ 
+  
+  .fa-poo{ 
+ 
+    color: green;
+    font-size: 100px;
+    position: relative;
+    margin-left: 500px;
+   
+   
+
+ }
+  .fa-door-open{
+    font-size: 240px;
+    margin-left:1000px;
+    margin-bottom: 500px;
+   
+
+
+  }
+
+  .exit{
+    font-size: 50px;
+    margin-left:1050px;
+    margin-bottom: 500px;
+  }
+
+  
